@@ -1,0 +1,8 @@
+Flask
+numpy
+pandas
+geopy
+category_encoders
+scikit-learn
+joblib
+boto3
